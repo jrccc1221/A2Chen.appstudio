@@ -25,6 +25,14 @@
             "IFStatement",
             "IFStatement.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "switchstatement",
+            "switchstatement.json"
+          ]
         }
       ],
       "configxml": null,
@@ -46,7 +54,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "If statement",
+      "firstform": "IFStatement",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
